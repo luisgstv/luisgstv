@@ -3,7 +3,6 @@
 
 I'm a Software Developer passionate in solving real-life problems with code and building new things from scratch.
 
-- 🔭 I’m currently working on [some nice projects](https://github.com/luisgstv?tab=repositories).
 - 🌱 I’m currently improving my knowledge and skills in Python.
 - 💬 Ask me about Web Scraping, Automations, Machine Learning, Data Analysis.
 
